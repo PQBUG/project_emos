@@ -1,0 +1,35 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/meeting/meeting",
+          "pathName": "pages/meeting/meeting",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/members/members",
+          "pathName": "pages/members/members",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/approval_list/approval_list",
+          "pathName": "pages/approval_list/approval_list",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
